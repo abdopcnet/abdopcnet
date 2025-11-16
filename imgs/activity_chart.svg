@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="220" viewBox="0 0 720 220" role="img" aria-label="Activity Chart">
+  <title>Activity Chart</title>
+  <defs>
+    <linearGradient id="barGrad" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#312e81"/>
+    </linearGradient>
+    <linearGradient id="areaGrad" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#22c55e" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#22c55e" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" rx="12" ry="12" fill="#0b1220"/>
+  <g transform="translate(40,20)">
+    <!-- Axes -->
+    <g stroke="#22304a" stroke-width="1">
+      <line x1="0" y1="180" x2="640" y2="180"/>
+      <line x1="0" y1="0" x2="0" y2="180"/>
+    </g>
+    <!-- Grid -->
+    <g stroke="#152036" stroke-width="1">
+      <line x1="0" y1="140" x2="640" y2="140"/>
+      <line x1="0" y1="100" x2="640" y2="100"/>
+      <line x1="0" y1="60" x2="640" y2="60"/>
+      <line x1="0" y1="20" x2="640" y2="20"/>
+    </g>
+    <!-- Area (sparkline) -->
+    <path d="M0,160 L40,150 L80,130 L120,140 L160,120 L200,100 L240,110 L280,90 L320,80 L360,100 L400,70 L440,60 L480,85 L520,75 L560,95 L600,60 L640,50 L640,180 L0,180 Z"
+          fill="url(#areaGrad)" stroke="#22c55e" stroke-width="2"/>
+    <!-- Bars -->
+    <g fill="url(#barGrad)">
+      <rect x="12" y="140" width="16" height="40" rx="3"/>
+      <rect x="52" y="130" width="16" height="50" rx="3"/>
+      <rect x="92" y="105" width="16" height="75" rx="3"/>
+      <rect x="132" y="120" width="16" height="60" rx="3"/>
+      <rect x="172" y="90" width="16" height="90" rx="3"/>
+      <rect x="212" y="70" width="16" height="110" rx="3"/>
+      <rect x="252" y="85" width="16" height="95" rx="3"/>
+      <rect x="292" y="65" width="16" height="115" rx="3"/>
+      <rect x="332" y="55" width="16" height="125" rx="3"/>
+      <rect x="372" y="80" width="16" height="100" rx="3"/>
+      <rect x="412" y="45" width="16" height="135" rx="3"/>
+      <rect x="452" y="40" width="16" height="140" rx="3"/>
+      <rect x="492" y="70" width="16" height="110" rx="3"/>
+      <rect x="532" y="60" width="16" height="120" rx="3"/>
+      <rect x="572" y="82" width="16" height="98" rx="3"/>
+      <rect x="612" y="40" width="16" height="140" rx="3"/>
+    </g>
+    <!-- Labels -->
+    <text x="0" y="195" fill="#7f8ea3" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="10">0</text>
+    <text x="-6" y="145" fill="#7f8ea3" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="10">25K</text>
+    <text x="-10" y="105" fill="#7f8ea3" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="10">50K</text>
+    <text x="-10" y="65" fill="#7f8ea3" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="10">75K</text>
+    <text x="-12" y="25" fill="#7f8ea3" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="10">100K</text>
+  </g>
+</svg>
+
+

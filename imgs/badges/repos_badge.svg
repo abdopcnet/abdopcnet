@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="32" viewBox="0 0 150 32" role="img" aria-label="Repositories">
+  <title>Repositories</title>
+  <rect rx="6" ry="6" width="150" height="32" fill="#2d333b"/>
+  <rect rx="6" ry="6" width="88" height="32" fill="#444c56"/>
+  <text x="12" y="21" fill="#fff" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="12" font-weight="600">Repos</text>
+  <text x="98" y="21" fill="#fff" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="12">110+</text>
+</svg>
+
+

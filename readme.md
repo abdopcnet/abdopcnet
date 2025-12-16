@@ -2,7 +2,7 @@
   <img src="./imgs/typing.svg" alt="Typing SVG (local)" />
 </div>
 
-<h3 align="center">A passionate Performance & Reliability Engineer from Egypt 🌟</h3>
+<h3 align="center">Design, deploy, manage, scale, optimize🌟</h3>
 
 <!-- Removed external profile views badge to keep README fully offline -->
 

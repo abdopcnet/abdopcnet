@@ -175,12 +175,6 @@
 - <img src="./imgs/whatsapp.svg" width="16" height="16" alt="WhatsApp"> **WhatsApp**: <img src="./imgs/Egypt.svg" width="16" height="16" alt="Egypt Flag"> [https://wa.me/201156483669](https://wa.me/201156483669)
 - <img src="./imgs/telegram.svg" width="16" height="16" alt="Telegram"> **Telegram**: [https://t.me/EG_01156483669](https://t.me/EG_01156483669)
 
-### <img src="./imgs/Saudi_Arabia.svg" width="20" height="20" alt="Saudi Arabia Flag"> Saudi Arabia Contact
-
-- 📞 <img src="./imgs/Saudi_Arabia.svg" width="16" height="16" alt="Saudi Arabia Flag"> **Call**: [+966 57 891 9729](tel:+966578919729)
-- <img src="./imgs/whatsapp.svg" width="16" height="16" alt="WhatsApp"> **WhatsApp**: <img src="./imgs/Saudi_Arabia.svg" width="16" height="16" alt="Saudi Arabia Flag"> [https://wa.me/966578919729](https://wa.me/966578919729)
-- <img src="./imgs/telegram.svg" width="16" height="16" alt="Telegram"> **Telegram**: [https://t.me/KSA_0578919729](https://t.me/KSA_0578919729)
-
 ### 🌐 Online
 
 - 🌐 **Website**: [future-support.online](https://www.future-support.online/)

@@ -162,8 +162,8 @@
     <img src="./imgs/ERPNext-support.png" height="200" alt="Future Support" style="border-radius: 20px;">
 </div>
 
-- **👨‍💻 Developer**: abdopcnet
-- **🏢 Company**: [Future Support](https://www.future-support.online/)
+- **👨‍💻 Developer**: Abdel_rahman
+- **🏢 WebSite**: [Future Support](https://www.future-support.online/)
 - **📧 Email**: <abdopcnet@gmail.com>
 - <img src="./imgs/github.svg" width="16" height="16" alt="GitHub"> **GitHub**: [github.com/abdopcnet?tab=repositories](https://github.com/abdopcnet?tab=repositories)
 

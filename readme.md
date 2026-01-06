@@ -96,21 +96,20 @@
 ## 📈 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://img.shields.io/github/repos/abdopcnet?style=for-the-badge&label=Public%20Repos&logo=github" alt="Public Repos (live)" />
-  <img src="https://img.shields.io/github/followers/abdopcnet?style=for-the-badge&label=Followers&logo=github" alt="Followers (live)" />
-  <img src="https://img.shields.io/github/stars/abdopcnet?style=for-the-badge&label=Stars%20(given)&logo=github" alt="Stars given (live)" />
-  <img src="https://img.shields.io/github/gists/abdopcnet?style=for-the-badge&label=Public%20Gists&logo=github" alt="Public gists (live)" />
-  <p style="color:#9ba3af;font-size:14px;margin-top:8px;">Shields badges are live (require internet).</p>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/abdopcnet&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github" alt="Public Repos (live)" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/abdopcnet&query=$.followers&label=Followers&style=for-the-badge&logo=github" alt="Followers (live)" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/abdopcnet&query=$.following&label=Following&style=for-the-badge&logo=github" alt="Following (live)" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/abdopcnet&query=$.public_gists&label=Public%20Gists&style=for-the-badge&logo=github" alt="Public gists (live)" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://github-contributions-api.jogruber.de/v4/abdopcnet&query=$.total.2026&label=Total%20Contributions%20(last%2012mo)&style=for-the-badge&logo=github" alt="Total contributions (live)" />
 </div>
 
 ---
 
 <div align="center">
 
-### 📊 Contribution Graph
+### 🔥 Contribution Heatmap
 <div align="center">
-  <img src="https://ghchart.rshah.org/abdopcnet" alt="GitHub Contribution Heatmap (live)" style="width:100%; max-width: 820px;" />
-  <p style="color:#9ba3af;font-size:14px;margin-top:6px;">Live pull from GitHub contributions (requires internet).</p>
+  <img src="https://ghchart.rshah.org/abdopcnet" alt="Contribution Heatmap" style="width:100%; max-width: 860px;" />
 </div>
 
 </div>
@@ -131,32 +130,6 @@
         <img src="./imgs/achievements/galaxy-brain.png" width="80" alt="Galaxy Brain">
         <img src="./imgs/achievements/pair-extraordinaire.png" width="80" alt="Pair Extraordinaire">
     </a>
-</div>
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 Profile Metrics
-<div align="center">
-  <img src="https://img.shields.io/github/repos/abdopcnet?style=flat-square&label=Public%20Repos&logo=github" alt="Public Repos (live)" />
-  <img src="https://img.shields.io/github/followers/abdopcnet?style=flat-square&label=Followers&logo=github" alt="Followers (live)" />
-  <img src="https://img.shields.io/github/stars/abdopcnet?style=flat-square&label=Stars%20(given)&logo=github" alt="Stars given (live)" />
-  <img src="https://img.shields.io/github/gists/abdopcnet?style=flat-square&label=Public%20Gists&logo=github" alt="Public gists (live)" />
-</div>
-
-</div>
-
----
-
-<div align="center">
-
-### 🔥 Contribution Heatmap
-<div align="center">
-  <img src="./imgs/stats/contributions.svg" alt="Contribution Heatmap" style="width:100%; max-width: 820px;" />
-  <p style="color:#9ba3af;font-size:14px;margin-top:6px;">Latest pull: 2026-01-06 (local snapshot)</p>
 </div>
 
 </div>

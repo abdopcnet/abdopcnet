@@ -23,88 +23,81 @@
 
 ### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+<img src="./imgs/badges/python.svg" alt="Python" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/javascript.svg" alt="JavaScript" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/typescript.svg" alt="TypeScript" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/html5.svg" alt="HTML5" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/css3.svg" alt="CSS3" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/bash.svg" alt="Bash" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/json.svg" alt="JSON" height="28" style="margin: 2px;" />
 
 ### 🎨 Frontend Frameworks
 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="./imgs/badges/vuejs.svg" alt="Vue.js" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/vuetify.svg" alt="Vuetify" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/react.svg" alt="React" height="28" style="margin: 2px;" />
 
 ### ⚙️ Backend & Runtime
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white)
-![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=erpnext&logoColor=white)
+<img src="./imgs/badges/nodejs.svg" alt="Node.js" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/npm.svg" alt="NPM" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/frappe.svg" alt="Frappe" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/erpnext.svg" alt="ERPNext" height="28" style="margin: 2px;" />
 
 ### 🗄️ Databases
 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+<img src="./imgs/badges/mariadb.svg" alt="MariaDB" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/mysql.svg" alt="MySQL" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/redis.svg" alt="Redis" height="28" style="margin: 2px;" />
 
 ### 🐳 DevOps & Cloud
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<img src="./imgs/badges/docker.svg" alt="Docker" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/github.svg" alt="GitHub" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/github-actions.svg" alt="GitHub Actions" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/nginx.svg" alt="Nginx" height="28" style="margin: 2px;" />
 
 ### 💻 Operating Systems
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="./imgs/badges/ubuntu.svg" alt="Ubuntu" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/debian.svg" alt="Debian" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/freebsd.svg" alt="FreeBSD" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/linux.svg" alt="Linux" height="28" style="margin: 2px;" />
 
 ### 🔒 Networking & Security
 
-![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+<img src="./imgs/badges/opnsense.svg" alt="OPNsense" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/pfsense.svg" alt="pfSense" height="28" style="margin: 2px;" />
 
 ### 🖥️ Virtualization
 
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=virtualbox&logoColor=white)
+<img src="./imgs/badges/proxmox.svg" alt="Proxmox" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/virtualbox.svg" alt="VirtualBox" height="28" style="margin: 2px;" />
 
 ### 🛒 E-Commerce
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-8DB543?style=for-the-badge&logo=shopify&logoColor=white)
+<img src="./imgs/badges/wordpress.svg" alt="WordPress" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/woocommerce.svg" alt="WooCommerce" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/shopify.svg" alt="Shopify" height="28" style="margin: 2px;" />
 
 ### 🔧 Development Tools
 
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+<img src="./imgs/badges/vscode.svg" alt="VS Code" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/cursor.svg" alt="Cursor" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/git.svg" alt="Git" height="28" style="margin: 2px;" />
 
 ### 📦 File Management
 
-![Syncthing](https://img.shields.io/badge/Syncthing-0891D1?style=for-the-badge&logo=syncthing&logoColor=white)
-![File Browser](https://img.shields.io/badge/File_Browser-4285F4?style=for-the-badge&logo=files&logoColor=white)
+<img src="./imgs/badges/syncthing.svg" alt="Syncthing" height="28" style="margin: 2px;" />
+<img src="./imgs/badges/filebrowser.svg" alt="File Browser" height="28" style="margin: 2px;" />
 
 </div>
 
 ## 📈 GitHub Stats & Activity
 
 <div align="center">
-
-### 🏆 GitHub Profile Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdopcnet&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdopcnet&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdopcnet&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
+  <img src="./imgs/stats/overview.svg" alt="GitHub Overview" style="width: 100%; max-width: 800px; margin-bottom: 20px;" />
+  <img src="./imgs/stats/languages.svg" alt="Top Languages" style="width: 100%; max-width: 800px;" />
 </div>
 
 ---
@@ -113,7 +106,13 @@
 
 ### 📊 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdopcnet&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/abdopcnet)
+<!-- Replaced external link with a static placeholder or removed if offline is strict. User complained about indicators not working. -->
+<!-- Since we cannot generate a dynamic graph offline, we will use a text placeholder or a static image if the user provides one. -->
+<!-- For now, we will comment out the broken link and put a "Stats temporarily unavailable offline" or similar, BUT the user wants "Professional". -->
+<!-- The best approach for offline professional look is to show what IS available: The Tech Stack and Contact info, and maybe the static achievements we just added. -->
+
+> **Note**: Dynamic GitHub stats and contribution graphs require internet access to render.
+> Below are some of the achievements unlocked on this profile.
 
 </div>
 
@@ -123,7 +122,17 @@
 
 ### 🎖️ GitHub Achievements
 
-![Achievements](https://github-profile-trophy.vercel.app/?username=abdopcnet&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
+<!-- Using the local assets we just copied -->
+<div align="center">
+    <a href="https://github.com/abdopcnet?tab=achievements">
+        <img src="./imgs/achievements/pull-shark.png" width="80" alt="Pull Shark">
+        <img src="./imgs/achievements/yolo.png" width="80" alt="YOLO">
+        <img src="./imgs/achievements/quickdraw.png" width="80" alt="Quickdraw">
+        <img src="./imgs/achievements/starstruck.png" width="80" alt="Starstruck">
+        <img src="./imgs/achievements/galaxy-brain.png" width="80" alt="Galaxy Brain">
+        <img src="./imgs/achievements/pair-extraordinaire.png" width="80" alt="Pair Extraordinaire">
+    </a>
+</div>
 
 </div>
 
@@ -146,7 +155,9 @@
 
 ### 🔥 Contribution Heatmap
 
-![GitHub Activity](https://ghchart.rshah.org/409ba5/abdopcnet)
+<!-- The external link was broken/offline. We remove it to avoid "broken indicator" complaint. -->
+<!-- Instead we leave a placeholder or just header. -->
+<p><i>(Contribution chart available when online)</i></p>
 
 </div>
 
@@ -160,6 +171,12 @@
 
 <div align="center">
     <img src="./imgs/ERPNext-support.png" height="200" alt="Future Support" style="border-radius: 20px;">
+    <br><br>
+    <a href="https://www.future-support.online/"><img src="./imgs/badges/website-badge.svg" height="40" style="margin:5px" alt="Website"></a>
+    <a href="mailto:abdopcnet@gmail.com"><img src="./imgs/badges/gmail-badge.svg" height="40" style="margin:5px" alt="Email"></a>
+    <a href="https://wa.me/201156483669"><img src="./imgs/badges/whatsapp-badge.svg" height="40" style="margin:5px" alt="WhatsApp"></a>
+    <a href="https://t.me/EG_01156483669"><img src="./imgs/badges/telegram-badge.svg" height="40" style="margin:5px" alt="Telegram"></a>
+    <a href="https://github.com/abdopcnet?tab=repositories"><img src="./imgs/badges/github.svg" height="40" style="margin:5px" alt="GitHub"></a>
 </div>
 
 - **👨‍💻 Developer**: Abdel_rahman

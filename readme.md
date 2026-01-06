@@ -96,8 +96,11 @@
 ## 📈 GitHub Stats & Activity
 
 <div align="center">
-  <img src="./imgs/stats/overview.svg" alt="GitHub Overview" style="width: 100%; max-width: 800px; margin-bottom: 20px;" />
-  <img src="./imgs/stats/languages.svg" alt="Top Languages" style="width: 100%; max-width: 800px;" />
+  <img src="https://img.shields.io/github/repos/abdopcnet?style=for-the-badge&label=Public%20Repos&logo=github" alt="Public Repos (live)" />
+  <img src="https://img.shields.io/github/followers/abdopcnet?style=for-the-badge&label=Followers&logo=github" alt="Followers (live)" />
+  <img src="https://img.shields.io/github/stars/abdopcnet?style=for-the-badge&label=Stars%20(given)&logo=github" alt="Stars given (live)" />
+  <img src="https://img.shields.io/github/gists/abdopcnet?style=for-the-badge&label=Public%20Gists&logo=github" alt="Public gists (live)" />
+  <p style="color:#9ba3af;font-size:14px;margin-top:8px;">Shields badges are live (require internet).</p>
 </div>
 
 ---
@@ -105,14 +108,10 @@
 <div align="center">
 
 ### 📊 Contribution Graph
-
-<!-- Replaced external link with a static placeholder or removed if offline is strict. User complained about indicators not working. -->
-<!-- Since we cannot generate a dynamic graph offline, we will use a text placeholder or a static image if the user provides one. -->
-<!-- For now, we will comment out the broken link and put a "Stats temporarily unavailable offline" or similar, BUT the user wants "Professional". -->
-<!-- The best approach for offline professional look is to show what IS available: The Tech Stack and Contact info, and maybe the static achievements we just added. -->
-
-> **Note**: Dynamic GitHub stats and contribution graphs require internet access to render.
-> Below are some of the achievements unlocked on this profile.
+<div align="center">
+  <img src="https://ghchart.rshah.org/abdopcnet" alt="GitHub Contribution Heatmap (live)" style="width:100%; max-width: 820px;" />
+  <p style="color:#9ba3af;font-size:14px;margin-top:6px;">Live pull from GitHub contributions (requires internet).</p>
+</div>
 
 </div>
 
@@ -141,11 +140,12 @@
 <div align="center">
 
 ### 📈 Profile Metrics
-
-![](https://img.shields.io/badge/Repos-110+-blue?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Followers-5+-green?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Profile_Views-50K+-red?style=for-the-badge&logo=eye&logoColor=white)
-![](https://img.shields.io/badge/Total_Contributions-120K+-orange?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/github/repos/abdopcnet?style=flat-square&label=Public%20Repos&logo=github" alt="Public Repos (live)" />
+  <img src="https://img.shields.io/github/followers/abdopcnet?style=flat-square&label=Followers&logo=github" alt="Followers (live)" />
+  <img src="https://img.shields.io/github/stars/abdopcnet?style=flat-square&label=Stars%20(given)&logo=github" alt="Stars given (live)" />
+  <img src="https://img.shields.io/github/gists/abdopcnet?style=flat-square&label=Public%20Gists&logo=github" alt="Public gists (live)" />
+</div>
 
 </div>
 
@@ -154,10 +154,10 @@
 <div align="center">
 
 ### 🔥 Contribution Heatmap
-
-<!-- The external link was broken/offline. We remove it to avoid "broken indicator" complaint. -->
-<!-- Instead we leave a placeholder or just header. -->
-<p><i>(Contribution chart available when online)</i></p>
+<div align="center">
+  <img src="./imgs/stats/contributions.svg" alt="Contribution Heatmap" style="width:100%; max-width: 820px;" />
+  <p style="color:#9ba3af;font-size:14px;margin-top:6px;">Latest pull: 2026-01-06 (local snapshot)</p>
+</div>
 
 </div>
 

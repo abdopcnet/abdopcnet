@@ -160,10 +160,7 @@
 **🤝 Need Support or Want to Join? Contact Now**
 
 ### <img src="./imgs/Egypt.svg" width="20" height="20" alt="Egypt Flag"> Egypt Contact
-
-- 📞 <img src="./imgs/Egypt.svg" width="16" height="16" alt="Egypt Flag"> **Call**: [+20 115 648 3669](tel:+201156483669)
-- <img src="./imgs/whatsapp.svg" width="16" height="16" alt="WhatsApp"> **WhatsApp**: <img src="./imgs/Egypt.svg" width="16" height="16" alt="Egypt Flag"> [https://wa.me/201156483669](https://wa.me/201156483669)
-- <img src="./imgs/telegram.svg" width="16" height="16" alt="Telegram"> **Telegram**: [https://t.me/EG_01156483669](https://t.me/EG_01156483669)
+- <img src="./imgs/telegram.svg" width="16" height="16" alt="Telegram"> **Telegram**: [https://t.me/abdo_00201156483669](https://t.me/abdo_00201156483669)
 
 ### 🌐 Online
 

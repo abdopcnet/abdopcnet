@@ -152,6 +152,16 @@
     <a href="https://github.com/abdopcnet?tab=repositories"><img src="./imgs/badges/github.svg" height="40" style="margin:5px" alt="GitHub"></a>
 </div>
 
+## 👥 Developer Groups
+
+<div align="center">
+    <a href="https://chat.whatsapp.com/D1ym5NjLjAQ598rw7Tsqb4"><img src="./imgs/badges/whatsapp-badge.svg" height="40" style="margin:5px" alt="WhatsApp Group"></a>
+    <a href="https://t.me/ERPNext_Freelancers"><img src="./imgs/badges/telegram-badge.svg" height="40" style="margin:5px" alt="Telegram Group"></a>
+</div>
+
+- <img src="./imgs/whatsapp.svg" width="16" height="16" alt="WhatsApp"> **WhatsApp Group**: [ERPNext_Freelancers🔔](https://chat.whatsapp.com/D1ym5NjLjAQ598rw7Tsqb4)
+- <img src="./imgs/telegram.svg" width="16" height="16" alt="Telegram"> **Telegram Group**: [ERPNext_Freelancers🔔](https://t.me/ERPNext_Freelancers)
+
 <!-- Removed external activity graph to keep README fully offline -->
 
 <!-- If you want a local graphic here, we can add a static SVG in imgs/ -->

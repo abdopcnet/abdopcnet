@@ -152,20 +152,6 @@
     <a href="https://github.com/abdopcnet?tab=repositories"><img src="./imgs/badges/github.svg" height="40" style="margin:5px" alt="GitHub"></a>
 </div>
 
-- **👨‍💻 Developer**: Abdel_rahman
-- **🏢 WebSite**: [Future Support](https://www.future-support.online/)
-- **📧 Email**: <abdopcnet@gmail.com>
-- <img src="./imgs/github.svg" width="16" height="16" alt="GitHub"> **GitHub**: [github.com/abdopcnet?tab=repositories](https://github.com/abdopcnet?tab=repositories)
-
-**🤝 Need Support or Want to Join? Contact Now**
-
-### <img src="./imgs/Egypt.svg" width="20" height="20" alt="Egypt Flag"> Egypt Contact
-- <img src="./imgs/telegram.svg" width="16" height="16" alt="Telegram"> **Telegram**: [https://t.me/abdo_00201156483669](https://t.me/abdo_00201156483669)
-
-### 🌐 Online
-
-- 🌐 **Website**: [future-support.online](https://www.future-support.online/)
-
 <!-- Removed external activity graph to keep README fully offline -->
 
 <!-- If you want a local graphic here, we can add a static SVG in imgs/ -->

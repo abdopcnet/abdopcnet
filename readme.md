@@ -149,7 +149,6 @@
     <a href="mailto:abdopcnet@gmail.com"><img src="./imgs/badges/gmail-badge.svg" height="40" style="margin:5px" alt="Email"></a>
     <a href="https://wa.me/201156483669"><img src="./imgs/badges/whatsapp-badge.svg" height="40" style="margin:5px" alt="WhatsApp"></a>
     <a href="https://t.me/EG_01156483669"><img src="./imgs/badges/telegram-badge.svg" height="40" style="margin:5px" alt="Telegram"></a>
-    <a href="https://github.com/abdopcnet?tab=repositories"><img src="./imgs/badges/github.svg" height="40" style="margin:5px" alt="GitHub"></a>
 </div>
 
 ## 👥 Developer Public Groups

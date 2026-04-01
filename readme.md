@@ -152,7 +152,7 @@
     <a href="https://github.com/abdopcnet?tab=repositories"><img src="./imgs/badges/github.svg" height="40" style="margin:5px" alt="GitHub"></a>
 </div>
 
-## 👥 Developer Groups
+## 👥 Developer Public Groups
 
 <div align="center">
     <a href="https://chat.whatsapp.com/D1ym5NjLjAQ598rw7Tsqb4"><img src="./imgs/badges/whatsapp-badge.svg" height="40" style="margin:5px" alt="WhatsApp Group"></a>

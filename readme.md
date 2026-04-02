@@ -143,23 +143,11 @@
 ## 📫 Connect With Me
 
 <div align="center">
-    <img src="./imgs/ERPNext-support.png" height="200" alt="Future Support" style="border-radius: 20px;">
-    <br><br>
     <a href="https://www.future-support.online/"><img src="./imgs/badges/my-website-badge.svg" height="40" style="margin:5px" alt="My Website"></a>
     <a href="mailto:abdopcnet@gmail.com"><img src="./imgs/badges/gmail-badge.svg" height="40" style="margin:5px" alt="Email"></a>
     <a href="https://wa.me/201156483669"><img src="./imgs/badges/whatsapp-badge.svg" height="40" style="margin:5px" alt="WhatsApp"></a>
     <a href="https://t.me/EG_01156483669"><img src="./imgs/badges/telegram-badge.svg" height="40" style="margin:5px" alt="Telegram"></a>
 </div>
-
-## 👥 Developer Public Groups
-
-<div align="center">
-    <a href="https://chat.whatsapp.com/D1ym5NjLjAQ598rw7Tsqb4"><img src="./imgs/badges/whatsapp-badge.svg" height="40" style="margin:5px" alt="WhatsApp Group"></a>
-    <a href="https://t.me/ERPNext_Freelancers"><img src="./imgs/badges/telegram-badge.svg" height="40" style="margin:5px" alt="Telegram Group"></a>
-</div>
-
-- <img src="./imgs/whatsapp.svg" width="16" height="16" alt="WhatsApp"> **WhatsApp Group**: [ERPNext_Freelancers🔔](https://chat.whatsapp.com/D1ym5NjLjAQ598rw7Tsqb4)
-- <img src="./imgs/telegram.svg" width="16" height="16" alt="Telegram"> **Telegram Group**: [ERPNext_Freelancers🔔](https://t.me/ERPNext_Freelancers)
 
 <!-- Removed external activity graph to keep README fully offline -->
 

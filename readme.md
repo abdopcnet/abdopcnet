@@ -12,10 +12,8 @@
 
 ## 🚀 About Me
 
-- I build and operate systems that are measurably fast, secure, and reliable.
-- 25+ years delivering low-latency, high-throughput, production‑grade platforms.
-- Obsessed with SLIs/SLOs, observability, and disciplined engineering.
-- Ask me about performance tuning, reliability engineering, DevSecOps, and scaling.
+- The more knowledge grows, the more lies and mental illness spread.
+- So I am less than you and know absolutely nothing.
 
 ## 🛠️ Tech Stack & Tools
 
@@ -136,7 +134,7 @@
 
 ## 🏆 Achievements
 
-- 60–80% latency reductions via strategic caching and query tuning.
+- 200% latency reductions via strategic caching and query tuning.
 - Higher TPS while preserving data consistency and safety.
 - Fewer P1 incidents with timeouts, retries/backoff, and circuit breakers.
 

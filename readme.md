@@ -144,7 +144,7 @@
     <a href="https://www.future-support.online/"><img src="./imgs/badges/my-website-badge.svg" height="40" style="margin:5px" alt="My Website"></a>
     <a href="mailto:abdopcnet@gmail.com"><img src="./imgs/badges/gmail-badge.svg" height="40" style="margin:5px" alt="Email"></a>
     <a href="https://wa.me/201156483669"><img src="./imgs/badges/whatsapp-badge.svg" height="40" style="margin:5px" alt="WhatsApp"></a>
-    <a href="https://t.me/EG_01156483669"><img src="./imgs/badges/telegram-badge.svg" height="40" style="margin:5px" alt="Telegram"></a>
+    <a href="https://t.me/abdo_01156483669"><img src="./imgs/badges/telegram-badge.svg" height="40" style="margin:5px" alt="Telegram"></a>
 </div>
 
 <!-- Removed external activity graph to keep README fully offline -->

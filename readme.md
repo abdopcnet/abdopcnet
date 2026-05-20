@@ -141,8 +141,7 @@
 ## 📫 Connect With Me
 
 <div align="center">
-    <a href="https://www.future-support.online/"><img src="./imgs/badges/my-website-badge.svg" height="40" style="margin:5px" alt="My Website"></a>
-    <a href="mailto:abdopcnet@gmail.com"><img src="./imgs/badges/gmail-badge.svg" height="40" style="margin:5px" alt="Email"></a>
+    <a href="https://ERPNext1.com/"><img src="./imgs/badges/my-website-badge.svg" height="40" style="margin:5px" alt="My Website"></a>
     <a href="https://t.me/ERPNext1"><img src="./imgs/badges/telegram-badge.svg" height="40" style="margin:5px" alt="Telegram"></a>
 </div>
 
